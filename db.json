@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alberto",
+      "empresa": "Diseño Web",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "notas": "Cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "Alejandro",
+      "empresa": "TI Systems",
+      "email": "correo1@correo.com",
+      "telefono": "1234567890",
+      "notas": "El Cliente solicita un producto",
+      "id": 2
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "correo2@correo.com",
+      "telefono": "1234567890",
+      "notas": "Karen está cotizando toner",
+      "id": 3
+    }
+  ]
+}
