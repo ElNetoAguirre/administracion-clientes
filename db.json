@@ -17,11 +17,11 @@
       "id": 2
     },
     {
-      "nombre": "Karen",
-      "empresa": "Karen Diseño",
+      "nombre": "Ana",
+      "empresa": "Ana Diseños",
       "email": "correo2@correo.com",
       "telefono": "1234567890",
-      "notas": "Karen está cotizando toner",
+      "notas": "Ana está cotizando toner",
       "id": 3
     }
   ]
